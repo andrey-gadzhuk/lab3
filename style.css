@@ -1,0 +1,107 @@
+body{
+     background-image: url("https://goo-gl.me/H8KuQ");
+    }
+hr{
+    border-color: blue;
+    border-width: 10px;
+    height: 2px;
+    width: auto;
+    border-top-style: dashed;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    }
+hr{
+        border-color: red;
+        border-width: 10px;
+        height: 2px;
+        width: auto;
+}
+b{
+  font-family: "Oswald", cursive;
+  font-size: 16px;
+  line-height: 20px;
+}
+br{
+  font-family: "Oswald", cursive;
+  font-size: 40px;
+  line-height: 40px;
+}
+p{
+  background-image: url("https://goo-gl.me/JQWbV");
+  font-family: "Oswald", cursive;
+  font-size: 24px;
+  line-height: 40px;
+  border-color: purple;
+  border-width: 3px;
+}
+p1{
+  font-family: "Oswald", cursive;
+  font-size: 30px;
+  line-height: 30px;
+}
+p3{
+  font-family: "Oswald", cursive;
+  font-size: 30px;
+  line-height: 30px;
+}
+img{
+  width: 200px;
+  height: 200px;
+}
+h1{
+  font-family: "Oswald", cursive;
+  font-size: 50px;
+  line-height: 50px;
+}
+h2{
+  color: black;
+  text-align: center;
+  border-top-style: dashed;
+  border-bottom: dashed;
+  border-color: orange;
+  font-style: oblique;
+  border-style: groove;
+  font-family: "Oswald", cursive;
+  font-size: 40px;
+  line-height: 40px;
+  border-width: 10px;
+}
+table{
+  columns: 5;
+  background-color: purple;
+  border-style: solid;
+}
+form{
+  background-color: black;
+  border-style: double;
+  border-width: 10px;
+  border-color: purple;
+  color: red;
+  height: 40%;
+  width: 40%;
+  font-variant: small-caps;
+  font-size: 16px;
+  font-family: "Oswald", cursive;
+}
+li{
+  color:white;
+  height: 25px;
+  width: 77px;
+  background-color: black;
+  border-style: none;
+}
+.img1{
+  width: 25px;
+  height: 25px;
+}
+.p2{
+  font-family: monospace;
+  font-size: 30px;
+  line-height: 30px;
+}
+.p3{
+  font-family: serif;
+  font-size: 30px;
+  line-height: 30px;
+}
